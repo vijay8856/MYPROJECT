@@ -1,0 +1,14 @@
+/* footer.css */
+/* CSS for the footer */
+.copyright_2 {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0f98f8;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+

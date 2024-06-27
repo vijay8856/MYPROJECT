@@ -1,0 +1,12 @@
+#main_category{
+    height: 450px;
+    width: 600px;
+  /* background-color: rgb(49, 24, 192); */
+}
+.part_category{
+    height:198px;
+    width: 150px;
+    float: left;
+    /* background-color: black;
+ */
+}

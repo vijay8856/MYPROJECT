@@ -1,0 +1,45 @@
+/* .newcontant{
+    
+    font-weight: bold;
+}
+.contant1{
+    font-weight: bold;
+} */
+ .contain{
+    display: flex;
+    column-gap: 50px;
+ }
+.rajw{
+    width: 100%;
+    height: 20px;
+    background: scroll;
+    background-color: #0f98f8;
+}
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right:80%;
+    width: auto;
+  }
+  .center1{
+    text-align: center;
+    color: #0f98f8;
+  }
+  .box1{
+   
+    padding-top: 10px;
+    width:auto;
+    height: auto;
+  }
+  .box2{
+   
+    padding-top: 10px;
+    width:auto;
+    height: auto;
+  }
+  /* .rajdd{
+    width: 100%;
+    height: 20px;
+    background: scroll;
+    background-color: #0f98f8;
+  } */

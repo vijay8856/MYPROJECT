@@ -1,0 +1,20 @@
+.form-group{
+   
+    text-align:left;
+    border: fixed;
+    width: 100%;
+}
+
+.form-group5{
+    text-align: center;
+    text-decoration: none;
+   
+  
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
